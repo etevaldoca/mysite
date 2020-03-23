@@ -1,0 +1,13 @@
+/* minha folha de estilo "myestilo.cc"*/
+p.w3-jumbo{
+text-transform: uppercase;
+
+}
+.container{
+    border: 1px solid blue;
+    margin: auto;
+    width: 1200px;
+    height: 259,99px;
+    background: blue;
+}
+
